@@ -1,0 +1,11 @@
+C:\Users\215703\source\repos\TheBaldMartinPetSim\TheBaldMartinPetSim\bin\Debug\TheBaldMartinPetSim.exe.config
+C:\Users\215703\source\repos\TheBaldMartinPetSim\TheBaldMartinPetSim\bin\Debug\TheBaldMartinPetSim.exe
+C:\Users\215703\source\repos\TheBaldMartinPetSim\TheBaldMartinPetSim\bin\Debug\TheBaldMartinPetSim.pdb
+C:\Users\215703\source\repos\TheBaldMartinPetSim\TheBaldMartinPetSim\obj\Debug\TheBaldMartinPetSim.csproj.AssemblyReference.cache
+C:\Users\215703\source\repos\TheBaldMartinPetSim\TheBaldMartinPetSim\obj\Debug\TheBaldMartinPetSim.csproj.SuggestedBindingRedirects.cache
+C:\Users\215703\source\repos\TheBaldMartinPetSim\TheBaldMartinPetSim\obj\Debug\TheBaldMartinPetSim.Form1.resources
+C:\Users\215703\source\repos\TheBaldMartinPetSim\TheBaldMartinPetSim\obj\Debug\TheBaldMartinPetSim.Properties.Resources.resources
+C:\Users\215703\source\repos\TheBaldMartinPetSim\TheBaldMartinPetSim\obj\Debug\TheBaldMartinPetSim.csproj.GenerateResource.cache
+C:\Users\215703\source\repos\TheBaldMartinPetSim\TheBaldMartinPetSim\obj\Debug\TheBaldMartinPetSim.csproj.CoreCompileInputs.cache
+C:\Users\215703\source\repos\TheBaldMartinPetSim\TheBaldMartinPetSim\obj\Debug\TheBaldMartinPetSim.exe
+C:\Users\215703\source\repos\TheBaldMartinPetSim\TheBaldMartinPetSim\obj\Debug\TheBaldMartinPetSim.pdb
