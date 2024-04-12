@@ -5,6 +5,10 @@ namespace TheBaldMartinPetSim
 {
     public partial class Form1 : Form
     {
+        private int hunger;
+        private int happiness;
+        private int wisdom;
+
         private Timer decreaseFeedTimer;
         private Timer decreasePlayTimer;
         private Timer decreaseReadTimer;
